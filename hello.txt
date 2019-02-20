@@ -5,4 +5,8 @@ aaa
 4th update
 5th update
 6th update 
+<<<<<<< HEAD
 master 7th update
+=======
+7th update
+>>>>>>> dev
