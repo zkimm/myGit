@@ -4,8 +4,3 @@ aaa
 3th update 
 4th update
 5th update
-6th update 
-master 7th update
-7th update
-test 8th update
-update github
